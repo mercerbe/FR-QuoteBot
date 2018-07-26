@@ -1,0 +1,24 @@
+{
+  "name": "fr-quotebot",
+  "version": "1.0.0",
+  "description": "twitter bot package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercerbe/FR-QuoteBot.git"
+  },
+  "author": "Ben Mercer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mercerbe/FR-QuoteBot/issues"
+  },
+  "homepage": "https://github.com/mercerbe/FR-QuoteBot#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-twitterbot": "^0.2.2",
+    "twit": "^2.2.11"
+  }
+}
