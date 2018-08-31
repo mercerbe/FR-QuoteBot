@@ -19,6 +19,7 @@ function pickQuote(array) {
   return array[Math.floor(Math.random() * array.length)]
 }
 
+//grab quote from array 
 const quote = pickQuote(quotesArray)
 
 //tweet picked quote

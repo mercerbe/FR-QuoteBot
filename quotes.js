@@ -26,6 +26,12 @@ module.exports = [
 "Attitudes are caught, not taught.",
 "The connections we make in the course of a life--maybe that's what heaven is.",
 "How many times have you noticed that it's the little quiet moments in the midst of life that seem to give the rest extra-special meaning?",
-"Real strength has to do with helping others."
+"Real strength has to do with helping others.",
+"Life is for service.",
+"There are three ways to ultimate success:
+The first way is to be kind.
+The second way is to be kind.
+The third way is to be kind.",
+"Discovering the truth about ourselves is a lifetime’s work, but it’s worth the effort"
 
 ]
