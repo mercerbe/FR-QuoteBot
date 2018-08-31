@@ -30,5 +30,4 @@ module.exports = [
 "Life is for service.",
 "There are three ways to ultimate success The first is to be kind. The second is to be kind. The third is to be kind.",
 "Discovering the truth about ourselves is a lifetime’s work, but it’s worth the effort"
-
 ]
